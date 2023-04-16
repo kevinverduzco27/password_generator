@@ -6,7 +6,7 @@ https://github.com/kevinverduzco27/password_generator
 ```
 I have learner alot in this project. Ive leanred how to upload a picture inot my about me, I leanerd how to replace text without anyones help!!!
 ```
-![unidentifed object.](./Assets/Password%20Generator.png)
+![unidentifed object.](./Assets/PasswordGenerator.png)
 ## What is your motivation
 
 ```
